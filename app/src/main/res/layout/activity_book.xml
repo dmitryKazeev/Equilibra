@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="30sp"
+    android:layout_marginEnd="30sp"
+    tools:context=".book" >
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"
+            android:baselineAlignBottom="false"
+            app:srcCompat="@drawable/vector" />
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30sp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="338dp"
+                app:srcCompat="@drawable/image_5" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/open_sans_bold"
+                android:text="Harry Potter"
+                android:textAlignment="center"
+                android:textColor="@color/darkBrown"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Joanne Rowling"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="@color/brown"
+                android:textSize="16sp" />
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="82sp"
+                android:indeterminate="false"
+                android:max="5"
+                android:numStars="5"
+                android:progressTint="@color/darkBrown"
+                android:rating="2"
+                android:stepSize="1"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="45sp"
+                android:fontFamily="@font/open_sans_bold"
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque nunc rutrum vivamus ultrices turpis consectetur sit vivamus. Elementum, nunc gravida cursus arcu. Risus nunc, vel fringilla ... read more"
+                android:textColor="@color/darkBrown"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/nearby"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/open_sans_bold"
+                android:text="@string/find_nearby"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
