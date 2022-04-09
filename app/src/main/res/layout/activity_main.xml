@@ -47,7 +47,7 @@
                     android:layout_gravity="center_vertical"
                     android:layout_weight="1"
                     android:fontFamily="@font/open_sans_bold"
-                    android:text="Hi, Dmitry!"
+                    android:text="Hi, Dmitry! епепе"
                     android:textColor="@color/darkBrown"
                     android:textSize="18sp"
                     android:textStyle="bold" />
