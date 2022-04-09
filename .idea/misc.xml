@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/drawable/ep_collection_tag.xml" value="0.3675" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/drawable/frame_1.xml" value="0.196" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/font/open_sans_bold.xml" value="0.38125" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_book.xml" value="0.25" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_nearby.xml" value="0.30480072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
