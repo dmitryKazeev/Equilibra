@@ -6,9 +6,14 @@
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/drawable/ep_collection_tag.xml" value="0.3675" />
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/drawable/frame_1.xml" value="0.196" />
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/font/open_sans_bold.xml" value="0.38125" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_add_book.xml" value="0.25" />
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_book.xml" value="0.25" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_nearby.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/activity_nearby.xml" value="0.75" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/content_add_book.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/fragment_first.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra3/app/src/main/res/layout/fragment_second.xml" value="0.2667572463768116" />
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra66/app/src/main/res/layout/activity_book.xml" value="0.2441123188405797" />
         <entry key="..\:/Users/dimak/AndroidStudioProjects/Equilibra66/app/src/main/res/layout/activity_main.xml" value="0.5" />
       </map>
