@@ -10,13 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Equilibra">
         <activity
-            android:name=".Login"
+            android:name=".CardLayout"
             android:exported="false" />
         <activity
             android:name=".Nearby"
             android:exported="false" />
         <activity
             android:name=".book"
+            android:exported="false" />
+        <activity
+            android:name=".AddBook"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

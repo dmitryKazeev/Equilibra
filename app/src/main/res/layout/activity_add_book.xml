@@ -12,29 +12,29 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:hint="Book Name"
         android:inputType="textPersonName"
-        android:text="Book Name"
         tools:ignore="TouchTargetSizeCheck" />
 
     <EditText
-        android:id="@+id/AurhorNameTxt"
+        android:id="@+id/authorNameTxt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/bookNameTxt"
         android:ems="10"
+        android:hint="Author Name"
         android:inputType="textPersonName"
-        android:minHeight="48dp"
-        android:text="Author Name" />
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/conditionTxt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/AurhorNameTxt"
+        android:layout_below="@id/authorNameTxt"
         android:ems="10"
+        android:hint="Condition"
         android:inputType="textPersonName"
-        android:minHeight="48dp"
-        android:text="Condition" />
+        android:minHeight="48dp" />
 
     <EditText
         android:id="@+id/exchangeForTxt"
@@ -42,9 +42,9 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/conditionTxt"
         android:ems="10"
+        android:hint="Exchange For"
         android:inputType="textPersonName"
-        android:minHeight="48dp"
-        android:text="Exchange for" />
+        android:minHeight="48dp" />
 
     <Button
         android:id="@+id/addBtn"
